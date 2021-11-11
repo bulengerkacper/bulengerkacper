@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bulengerkacper
+- 👀 I’m interested in C/C++/LINUX
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on C++ & Rust projects
